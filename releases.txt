@@ -1,0 +1,7 @@
+ReleaseNotes:
+
+1 - 14.08.2012
+----------------------------
+First release!
+* shows community members names with email address as "to:"-link
+* cvs export of first and last name with email address
