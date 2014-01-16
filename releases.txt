@@ -1,5 +1,10 @@
 ReleaseNotes:
 
+
+2.0 - 16.01.2014
+Migration to Liferay 6.2
+
+
 1 - 14.08.2012
 ----------------------------
 First release!
