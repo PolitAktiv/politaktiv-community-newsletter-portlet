@@ -13,4 +13,4 @@ apply from: "dependencies.gradle"
 ant.importBuild 'build.xml'
 
 group="politaktiv"
-version = '6.2.0'
+version = '6.2.0.1'
